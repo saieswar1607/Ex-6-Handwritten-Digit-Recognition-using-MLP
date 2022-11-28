@@ -10,6 +10,17 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## Algorithm :
 
+Import the libraries and load the dataset.
+
+Preprocess the data. *The image data cannot be fed directly into the model so we need to perform some operations and process the data to make it ready for our neural network.
+
+Create the model.Now we will create our CNN model in Python data science project. A CNN model generally consists of convolutional and pooling layers.
+
+Train the model.The model.fit() function we have implemented MLP with backpropagation using ReLU activation function. will start the training of the model. It takes the training data, validation data, epochs, and batch size.
+
+Evaluate the model. We have 10,000 images in our dataset which will be used to evaluate how good our model works.
+
+Create GUI to predict digits.Now for the GUI, we have created a new file in which we build an interactive window to draw digits on canvas and with a button, we can recognize the digit.
 
 
 ## Program:
